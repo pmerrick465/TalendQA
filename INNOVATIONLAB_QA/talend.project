@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_MviQ8b4vEea80MMy8SmWEw" label="InnovationLab_QA" description="" language="java" technicalLabel="INNOVATIONLAB_QA" creationDate="2016-12-09T09:57:41.512-0600" author="_Mvi4AL4vEea80MMy8SmWEw" productVersion="Talend Big Data Platform-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/pmerrick465/TalendQA&quot;,&quot;login&quot;:&quot;pmerrick465&quot;,&quot;passwd&quot;:&quot;5iw4W5kSUgQGvSGkBJugQQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_Mvi4AL4vEea80MMy8SmWEw" login="peter.merrick@slalom.com" firstName="Peter" lastName="Merrick" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
